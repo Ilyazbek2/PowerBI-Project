@@ -1,0 +1,11 @@
+# Ignore Power BI cache files
+*.pbix.lock
+*.tmp
+
+# Ignore local Excel/CSV files (if sensitive)
+*.xlsx
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
